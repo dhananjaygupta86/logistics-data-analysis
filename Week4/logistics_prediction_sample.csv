@@ -1,0 +1,201 @@
+order_id,distance_km,packages,traffic,weather,vehicle_type,delivery_time_min,transport_cost
+1,32.69,1,High,Clear,Van,95.64,268.08
+2,34.48,18,Low,Cloudy,Mini Truck,101.12,319.93
+3,13.17,20,Low,Clear,Mini Truck,73.85,206.64
+4,22.14,15,High,Clear,Van,107.28,231.2
+5,22.29,9,Low,Cloudy,Bike,68.03,217.78
+6,19.23,12,High,Clear,Van,97.37,213.08
+7,48.71,13,Low,Cloudy,Mini Truck,130.58,410.67
+8,43.36,19,Low,Clear,Mini Truck,112.95,385.18
+9,15.89,3,Low,Cloudy,Bike,50.96,162.86
+10,19.51,12,Medium,Rain,Bike,90.44,226.91
+11,33.11,20,High,Rain,Bike,147.95,320.12
+12,20.21,18,Low,Cloudy,Mini Truck,89.84,247.64
+13,12.99,2,Medium,Cloudy,Van,51.14,148.83
+14,29.22,11,Low,Cloudy,Mini Truck,87.5,285.87
+15,24.02,9,Low,Rain,Bike,88.32,225.51
+16,30.06,19,Medium,Clear,Van,115.56,296.04
+17,25.69,2,Low,Rain,Bike,74.23,224.4
+18,30.63,13,Medium,Cloudy,Mini Truck,105.04,303.73
+19,43.32,1,High,Clear,Mini Truck,121.05,331.19
+20,14.81,11,Low,Cloudy,Van,59.21,164.86
+21,36.66,9,High,Rain,Bike,140.42,325.91
+22,16.33,17,High,Clear,Bike,94.24,200.49
+23,47.77,17,Low,Cloudy,Mini Truck,129.53,403.36
+24,19.42,10,Low,Clear,Bike,72.06,219.64
+25,6.11,16,Low,Clear,Mini Truck,46.44,139.97
+26,28.39,9,High,Cloudy,Mini Truck,117.19,273.9
+27,38.25,7,High,Cloudy,Van,131.45,322.62
+28,23.03,17,Medium,Clear,Bike,88.25,249.34
+29,30.24,8,High,Clear,Bike,99.54,273.49
+30,12.99,2,Medium,Rain,Bike,63.89,141.5
+31,12.28,5,High,Rain,Mini Truck,85.94,150.86
+32,40.76,7,Low,Rain,Bike,111.69,332.15
+33,24.42,2,High,Rain,Mini Truck,96.09,207.81
+34,18.29,4,Low,Clear,Bike,55.67,167.09
+35,10.81,15,Low,Cloudy,Bike,68.81,178.44
+36,6.7,18,Low,Clear,Bike,51.05,151.12
+37,12.26,13,Low,Cloudy,Bike,55.38,166.9
+38,46.47,15,Medium,Rain,Van,151.82,414.42
+39,28.68,16,Low,Cloudy,Bike,91.24,274.17
+40,37.32,2,High,Clear,Van,102.25,293.88
+41,46.13,17,Low,Rain,Bike,130.2,394.92
+42,30.56,8,Medium,Rain,Bike,102.89,274.48
+43,31.73,14,High,Rain,Mini Truck,133.31,313.29
+44,11.8,11,Low,Cloudy,Van,53.65,164.57
+45,23.95,3,Low,Rain,Van,86.19,226.06
+46,5.52,7,High,Clear,Van,69.82,116.81
+47,44.2,12,Medium,Cloudy,Bike,131.48,380.41
+48,31.36,17,Low,Rain,Mini Truck,108.6,313.24
+49,47.07,5,Medium,Clear,Bike,119.4,358.12
+50,15.52,7,High,Clear,Van,82.88,180.97
+51,26.26,9,Low,Rain,Bike,89.92,240.49
+52,2.17,5,High,Clear,Van,58.05,78.16
+53,22.53,1,Low,Rain,Bike,79.26,196.31
+54,42.06,19,High,Cloudy,Bike,142.04,379.14
+55,45.15,2,Medium,Rain,Bike,118.75,333.56
+56,39.45,14,High,Clear,Mini Truck,137.88,342.53
+57,9.8,6,Medium,Clear,Bike,57.45,124.67
+58,46.68,8,Medium,Rain,Bike,128.09,387.59
+59,43.21,8,Low,Cloudy,Van,105.34,362.73
+60,12.92,1,High,Cloudy,Bike,68.72,143.41
+61,48.41,9,Medium,Rain,Mini Truck,137.19,405.6
+62,27.74,1,Low,Clear,Van,67.95,243.32
+63,3.84,20,Medium,Rain,Van,84.11,138.05
+64,49.24,4,Medium,Clear,Mini Truck,113.78,385.32
+65,2.08,18,High,Rain,Mini Truck,92.33,112.43
+66,22.7,11,High,Rain,Van,118.66,237.64
+67,16.42,10,High,Cloudy,Van,89.35,180.6
+68,8.11,14,High,Rain,Van,96.76,136.94
+69,29.32,13,High,Cloudy,Bike,113.93,278.98
+70,29.84,11,Medium,Cloudy,Van,103.04,277.8
+71,40.1,6,High,Cloudy,Bike,125.42,330.64
+72,18.09,8,High,Clear,Van,90.66,180.01
+73,4.22,16,High,Cloudy,Bike,77.81,132.32
+74,11.33,13,Medium,Clear,Van,61.12,169.77
+75,44.85,4,Medium,Clear,Bike,115.11,356.4
+76,24.3,18,Low,Cloudy,Bike,85.44,264.89
+77,27.49,18,High,Cloudy,Van,123.54,293.26
+78,26.23,18,Medium,Rain,Bike,120.37,277.0
+79,38.09,9,High,Rain,Van,132.08,322.28
+80,36.25,8,Medium,Cloudy,Van,112.91,296.04
+81,9.24,13,High,Rain,Bike,88.63,148.01
+82,17.88,15,Medium,Clear,Bike,86.22,210.4
+83,38.95,1,High,Cloudy,Van,107.81,297.23
+84,38.17,14,High,Rain,Mini Truck,144.63,345.2
+85,12.59,8,Medium,Cloudy,Van,58.87,149.92
+86,34.6,13,High,Cloudy,Bike,133.03,329.82
+87,27.64,13,High,Rain,Mini Truck,116.92,274.44
+88,8.51,15,Low,Cloudy,Bike,58.03,144.16
+89,17.69,13,Medium,Cloudy,Van,87.93,204.59
+90,37.95,2,Medium,Rain,Bike,103.61,312.39
+91,3.93,1,Low,Clear,Bike,28.12,66.2
+92,24.73,4,High,Cloudy,Bike,99.23,227.75
+93,10.05,20,High,Clear,Mini Truck,94.53,170.24
+94,16.93,19,Low,Rain,Van,93.12,235.29
+95,21.04,7,Low,Rain,Mini Truck,84.56,198.55
+96,35.47,10,High,Clear,Mini Truck,123.04,312.53
+97,3.97,18,Medium,Cloudy,Mini Truck,59.85,138.23
+98,2.61,14,Medium,Cloudy,Bike,65.81,115.03
+99,41.78,5,Medium,Rain,Bike,121.87,338.58
+100,31.56,18,Medium,Cloudy,Van,118.86,315.91
+101,17.47,8,Low,Cloudy,Van,60.6,185.5
+102,31.3,13,Medium,Cloudy,Bike,111.33,284.41
+103,12.18,9,Medium,Rain,Van,80.42,148.96
+104,2.49,7,Low,Rain,Bike,46.24,87.34
+105,13.54,16,High,Cloudy,Mini Truck,94.19,174.53
+106,16.12,13,High,Cloudy,Bike,97.53,191.35
+107,28.57,12,Medium,Rain,Mini Truck,106.86,278.79
+108,15.0,9,Low,Rain,Bike,67.08,162.59
+109,27.72,6,Low,Rain,Bike,88.87,252.92
+110,48.88,17,High,Clear,Van,156.92,416.11
+111,19.32,10,Low,Rain,Mini Truck,74.87,191.95
+112,4.62,10,High,Rain,Bike,86.75,109.76
+113,43.89,19,Medium,Cloudy,Van,135.16,387.32
+114,4.47,16,Low,Cloudy,Bike,54.47,132.37
+115,34.95,5,Low,Cloudy,Mini Truck,83.28,282.12
+116,28.79,14,High,Rain,Mini Truck,123.55,281.81
+117,23.62,15,Medium,Cloudy,Mini Truck,92.54,254.66
+118,31.26,4,Low,Clear,Mini Truck,73.38,249.63
+119,13.51,18,Low,Clear,Bike,66.5,201.5
+120,24.56,2,Low,Rain,Van,74.28,222.43
+121,5.42,8,Medium,Rain,Mini Truck,66.79,121.24
+122,22.41,18,Low,Clear,Mini Truck,89.63,263.46
+123,5.43,6,Medium,Rain,Mini Truck,66.42,113.93
+124,23.08,15,High,Rain,Van,118.18,240.69
+125,27.92,15,Low,Clear,Mini Truck,94.19,286.02
+126,30.98,1,Low,Rain,Bike,92.54,252.13
+127,47.64,9,High,Clear,Bike,137.02,390.71
+128,45.97,6,High,Rain,Van,150.18,378.88
+129,24.56,14,Medium,Rain,Van,99.43,243.46
+130,21.76,16,Medium,Cloudy,Mini Truck,99.01,243.94
+131,23.83,11,Medium,Clear,Van,92.53,235.52
+132,26.7,1,High,Cloudy,Mini Truck,93.5,212.68
+133,19.37,16,High,Clear,Van,95.19,228.38
+134,46.53,15,High,Clear,Van,137.06,403.85
+135,40.37,6,Medium,Clear,Mini Truck,106.47,316.2
+136,49.63,4,Medium,Rain,Bike,138.69,381.55
+137,36.4,17,High,Cloudy,Van,140.74,355.51
+138,13.7,18,Low,Clear,Van,75.04,197.3
+139,44.21,3,Medium,Cloudy,Van,119.6,343.1
+140,41.39,10,High,Rain,Van,144.64,353.83
+141,43.53,15,High,Cloudy,Van,141.82,388.33
+142,20.11,11,Low,Clear,Mini Truck,69.84,206.22
+143,39.23,2,Medium,Cloudy,Mini Truck,105.97,316.34
+144,20.53,5,Medium,Clear,Bike,70.44,198.65
+145,43.75,15,Low,Cloudy,Mini Truck,112.12,371.2
+146,43.8,5,Low,Cloudy,Van,102.38,352.98
+147,33.19,11,High,Cloudy,Mini Truck,128.19,303.04
+148,44.6,16,High,Rain,Bike,150.91,394.83
+149,46.2,8,High,Cloudy,Bike,146.19,381.11
+150,35.79,4,Medium,Rain,Bike,106.63,277.5
+151,17.57,2,Medium,Cloudy,Van,64.76,158.53
+152,21.78,6,Low,Clear,Bike,65.78,204.05
+153,34.79,16,High,Clear,Bike,125.52,319.75
+154,14.26,1,Medium,Rain,Van,69.49,128.41
+155,47.37,19,Medium,Cloudy,Mini Truck,145.07,418.11
+156,16.5,13,Medium,Clear,Bike,73.65,193.52
+157,16.2,10,Low,Cloudy,Mini Truck,61.93,187.28
+158,34.92,2,High,Cloudy,Mini Truck,115.69,291.07
+159,39.24,8,High,Clear,Van,123.89,331.69
+160,34.53,5,High,Rain,Bike,126.54,281.21
+161,23.16,19,Medium,Clear,Mini Truck,89.31,255.89
+162,37.88,6,Low,Rain,Bike,112.42,308.2
+163,26.09,9,Low,Cloudy,Van,88.33,239.94
+164,43.78,4,Medium,Clear,Bike,112.49,335.34
+165,34.46,13,High,Clear,Van,125.73,299.91
+166,27.76,15,Medium,Rain,Mini Truck,115.45,280.48
+167,41.48,12,Low,Clear,Mini Truck,106.06,360.21
+168,47.27,11,High,Rain,Bike,147.87,400.47
+169,45.65,10,High,Clear,Van,129.84,390.11
+170,16.61,16,Low,Clear,Bike,76.43,198.03
+171,23.77,18,Medium,Rain,Mini Truck,114.03,274.07
+172,33.44,16,High,Cloudy,Van,121.37,314.48
+173,23.28,8,Medium,Rain,Bike,92.45,236.37
+174,32.95,2,Medium,Clear,Van,94.51,279.65
+175,41.56,3,High,Rain,Bike,135.38,339.77
+176,4.43,11,Low,Rain,Bike,52.31,122.19
+177,28.6,19,Low,Cloudy,Bike,104.51,306.06
+178,30.61,9,Low,Rain,Bike,94.55,265.7
+179,33.73,1,Low,Cloudy,Bike,86.48,259.88
+180,17.54,6,Medium,Clear,Bike,70.69,180.79
+181,37.79,16,Medium,Rain,Van,132.74,345.2
+182,12.63,20,Low,Rain,Mini Truck,84.81,195.84
+183,48.27,2,Medium,Cloudy,Van,121.04,365.46
+184,45.67,3,Low,Rain,Van,109.51,341.14
+185,31.97,19,High,Cloudy,Mini Truck,128.94,322.23
+186,16.16,17,High,Clear,Van,100.66,197.97
+187,33.43,18,High,Cloudy,Bike,131.06,317.15
+188,18.27,15,Medium,Rain,Van,90.08,214.06
+189,33.93,12,Low,Cloudy,Mini Truck,91.76,317.5
+190,6.48,4,High,Cloudy,Mini Truck,70.0,102.81
+191,30.15,18,High,Rain,Van,130.21,299.58
+192,33.94,14,High,Cloudy,Bike,128.3,310.16
+193,29.74,7,Low,Cloudy,Mini Truck,79.65,251.06
+194,42.58,12,Low,Rain,Van,119.0,361.64
+195,28.93,20,High,Rain,Mini Truck,138.09,306.31
+196,33.58,9,Low,Cloudy,Bike,96.83,289.04
+197,18.31,1,Low,Rain,Bike,68.14,154.6
+198,37.57,1,Low,Rain,Mini Truck,93.81,290.3
+199,18.36,12,Medium,Cloudy,Mini Truck,86.64,208.37
+200,6.08,2,Low,Rain,Bike,39.13,78.97
